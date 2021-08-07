@@ -1,0 +1,21 @@
+.my_kamasutra_google{
+    width: 500px;
+    margin: 0px auto;
+    text-align: center;
+}
+
+.my_kamasutra_google button{
+    background: green;
+    height: 60px;
+    padding: 10px;
+}
+
+.my_kamasutra_google input{
+    border: red 1px solid;
+    height: 30px;
+    padding: 10px;
+}
+
+.my_kamasutra_google label{
+    font-size: 150%;
+}
